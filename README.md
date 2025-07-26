@@ -1,4 +1,4 @@
-# eBookStore : Django Ecommerce Bookstore Project
+# eBookStore: Django Ecommerce Bookstore Project
 
 An easy-to-use e-commerce platform with a modern user interface, PayPal and card support, and login/signup capabilities, developed with Django. 
 This is an excellent beginning project for learning how to use Django to create scalable web applications.
@@ -6,13 +6,13 @@ This is an excellent beginning project for learning how to use Django to create 
 ## 🔗 Project Link
 
 **GitHub Repo:**  
-[https://github.com/BytesofSurajm/django-ecommerce-bookstore](https://github.com/BytesofSurajm/django-ecommerce-bookstore)
+[https://github.com/iimTeam/eBookstore] (https://github.com/iimTeam/eBookstore)
 
 ---
 
-## 🧠 Who is this for?
+# Whom is this intended?
 
-If you're a complete **noob** but eager to try out Django and clone a live project on your system, this is for you. Follow the steps below, and you’ll be up and running in no time 🔥
+This is for you.. if you're a total **newbie** but are keen to use Django and clone an existing project on your machine. You will be up and running in no time if you follow the instructions below. 🔥
 
 ---
 
@@ -32,8 +32,8 @@ If you're a complete **noob** but eager to try out Django and clone a live proje
 ### 1️⃣ Clone the Project
 
 ```bash
-git clone https://github.com/BytesofSurajm/django-ecommerce-bookstore.git
-cd django-ecommerce-bookstore
+git clone https://github.com/iimTeam/eBookstore
+cd ebookstore
 ```
 
 ---
@@ -95,7 +95,7 @@ Admin panel: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 
 ---
 
-## 💳 PayPal Sandbox Integration
+## PayPal Sandbox Integration
 
 1. Go to: [https://developer.paypal.com/](https://developer.paypal.com/)
 2. Create a sandbox account + app
@@ -116,7 +116,7 @@ Admin panel: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 ## 🙋 Need Help?
 
 Raise a GitHub issue here:  
-👉 [https://github.com/BytesofSurajm/django-ecommerce-bookstore/issues](https://github.com/BytesofSurajm/django-ecommerce-bookstore/issues)
+https://github.com/iimTeam/eBookstore/issues] (https://github.com/iimTeam/eBookstore/issues)
 
 ---
 
@@ -125,7 +125,7 @@ Raise a GitHub issue here:
 - Django
 - HTML / CSS / JS
 - Bootstrap
-- PayPal SDK (Optional if intgration done)
+- PayPal SDK (Optional if integration done)
 
 ---
 ## Open-Source Project for Students
