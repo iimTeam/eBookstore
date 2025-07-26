@@ -18,7 +18,7 @@ This is for you.. if you're a total **newbie** but are keen to use Django and c
 
 ## 🛠️ Tools You Need
 
-| Tool      | Download Link                         | Purpose                          |
+| Tool      | Download Link                          | Purpose                          |
 |-----------|----------------------------------------|----------------------------------|
 | Python    | https://www.python.org/downloads/      | Runs Django                      |
 | Git       | https://git-scm.com/downloads          | Clones project                   |
@@ -41,18 +41,18 @@ cd ebookstore
 ### 2️⃣ Create a Virtual Environment
 
 ```bash
-python -m venv env
+python -m venv venv
 ```
 
 Activate it:
 
 - On **Windows**:
   ```bash
-  env\Scripts\activate
+  venv\Scripts\activate
   ```
 - On **Mac/Linux**:
   ```bash
-  source env/bin/activate
+  source venv/bin/activate
   ```
 
 ---
@@ -105,11 +105,11 @@ Admin panel: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 
 ## 🐞 Common Issues & Fixes
 
-| Problem                             | Solution                                |
+| Problem                            | Solution                                |
 |------------------------------------|-----------------------------------------|
-| `ModuleNotFoundError`              | Run `pip install <missing-package>`     |
+| ModuleNotFoundError                | Run pip install <missing-package>       |
 | Virtualenv not activating          | Use admin/PowerShell or check your path |
-| Port already in use                | Use `python manage.py runserver 8080`   |
+| Port already in use                | Use python manage.py runserver 8080     |
 
 ---
 
@@ -125,7 +125,7 @@ https://github.com/iimTeam/eBookstore/issues] (https://github.com/iimTeam/eBooks
 - Django
 - HTML / CSS / JS
 - Bootstrap
-- PayPal SDK (Optional if integration done)
+- PayPal SDK (Optional if integration is done)
 
 ---
 ## Open-Source Project for Students
